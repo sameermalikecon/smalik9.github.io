@@ -1,14 +1,14 @@
 # Site settings
-title: Vinayak Iyer
-description: Job Market Candidate, Department of Economics, Columbia University
-url: 'https://smalik9.github.io'
+title: Sameer Malik
+description: 3rd Year Ph.D Student, Department of Economics, University of Houston
+url: 'https://smalik.github.io'
 baseurl: ""
 google_analytics: 'UA-154586808-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Vinayak Iyer'
-  email: vi2137@columbia.edu
+  name: 'Sameer Malik'
+  email: smalik9@uh.edu
 
 defaults:
   -
