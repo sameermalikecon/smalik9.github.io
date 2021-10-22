@@ -1,0 +1,51 @@
+---
+title:  ""
+categories: [jekyll]
+tags: [jekyll]
+---
+
+<h2 id="working-papers"><strong>Research</strong></h2>
+
+<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
+</p>
+
+
+<!--
+<h3 id="job-market-paper">Job Market Paper</h3>
+<ul>
+  <h4><b>What drives efficiency in Ridesharing markets?</b>
+(<a href=" target="_blank"><em>Draft</em></a>)(<a href="" target="_blank"><em>Slides</em></a>)</h4>
+<details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
+</ul>
+-->
+<h4 id="working-papers"><strong>Job Market Paper</strong></h4>
+<ul>
+  <p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">What Drives Efficiency in Ridesharing Markets? Evidence from Austin, Texas</a></strong></span></font> <font size="2">with <a href="https://motazac.github.io/" style="color:#cc0e0e;" target="_blank">Motaz Al-Chanati</a> (Draft Coming Soon) </font></b></p></ul>
+
+<h4 id="working-papers"><strong>Working Papers</strong></h4>
+<ul>
+  <p><b><font size="3"><span style="color:#505050;"><strong><a href="{{ site.baseurl }}/files/HjortIyerDeRochambeau_091121_everything.pdf" style="color:#cc0e0e;" target="_blank">Informational Barriers to Market Access: Experimental Evidence from Liberian Firms</a></strong></span></font> <font size="2">with <a href="https://sites.google.com/site/jonashjort/" style="color:#cc0e0e;" target="_blank">Jonas Hjort</a> and <a href="https://golvine.com/" style="color:#cc0e0e;" target="_blank">Golvine de Rochambeau</a></font></b>
+  <br/><font size="2"><a href="https://www.nber.org/papers/w27662?utm_campaign=ntwh" style="color:#17202a;">NBER WP No 27662</a></font></p></ul>
+
+<!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)-->
+<!---<details><summary>Abstract:</summary><p><font size="2">Evidence suggests that firms in poor countries stagnate because they cannot access
+growth-conducive markets. We hypothesize that overlooked heterogeneity in marketing
+ability distorts market access. To investigate, we gave a random subset of Liberian
+firms vouchers for a week-long program that teaches how to sell to corporations, governments,
+and other large buyers. Firms that participate win about three times as
+many contracts, but only firms with access to the Internet benefit. We use a simple
+model and variation in online and offline demand to show evidence that this is because
+ICT dampens traditional information frictions, but not marketing barriers.</font></p></details>
+-->
+
+    
+<h4 id="work-in-progress"><strong>Work in Progress</strong></h4>
+<ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Valuation of Public Transit and Landlord Market Power : Evidence from NYC</a></strong></span></font> <font size="2">with <a href="https://www.lucashusted.com/home" style="color:#cc0e0e;" target="_blank">Lucas Husted</a> (Preliminary Draft Available on Request) </font></b></p></ul>
+<ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">Transparency and Polarization of Political Speech : Evidence from Canada </a></strong></span></font> <br/> <font size="2">with <a target="_blank">William Labasi Samartino</a> (Preliminary Draft Available on Request) </font></b></p></ul>
+
+<ul>
+<p><b><font size="3"><span style="color:#505050;"><strong><a style="color:#cc0e0e;" target="_blank">In the Dark : Impact of Streetlight Outages on Crime </a></strong></span></font> <font size="2"> <br/> with <a href="https://econ.uconn.edu/person/michele-baggio/" style="color:#cc0e0e;" target="_blank">Michele Baggio</a>, <a href="https://aysps.gsu.edu/profile/alberto-chong/" style="color:#cc0e0e;" target="_blank"> Alberto Chong</a>, <a href="https://nishithprakash.com/" style="color:#cc0e0e;" target="_blank"> Nishith Prakash</a>, <a href="https://anjalipverma.github.io/about/" style="color:#cc0e0e;" target="_blank"> Anjali P. Verma </a> </font></b></p></ul>
+
+
